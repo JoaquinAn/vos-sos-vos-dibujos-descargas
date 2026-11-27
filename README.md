@@ -1,6 +1,6 @@
 # Biblioteca Vos Sos Vos
 
-Acá se publica el programa. **Para instalarlo**: abrí [la última versión](https://github.com/JoaquinAn/vos-sos-vos-dibujos-descargas/releases/latest), bajá el archivo `...-windows.zip` y seguí estos pasos:
+Acá se publica el programa. **Para instalarlo**, bajá [la última versión](https://github.com/JoaquinAn/vos-sos-vos-dibujos-descargas/releases/latest/download/Biblioteca-Vos-Sos-Vos-windows.zip) y seguí estos pasos:
 
 ```
 BIBLIOTECA VOS SOS VOS · Biblioteca de dibujos
@@ -44,7 +44,7 @@ momento y se vuelve a abrir solo. Tus dibujos no se tocan.
 También podés fijarte vos: menú "Más" → "Buscar actualizaciones" (hace falta internet).
 
 Si alguna vez no funciona: cerrá la biblioteca, bajá la última versión de
-https://github.com/JoaquinAn/vos-sos-vos-dibujos-descargas/releases/latest
+https://github.com/JoaquinAn/vos-sos-vos-dibujos-descargas/releases/latest/download/Biblioteca-Vos-Sos-Vos-windows.zip
 y descomprimila en el mismo lugar que la anterior, reemplazándola.
 
 SI ALGO FALLA
