@@ -19,6 +19,14 @@ INSTALAR
 4. Se abre el navegador con la biblioteca. En el escritorio queda un acceso directo para las
    próximas veces.
 
+SI WINDOWS NO LO DEJA ABRIR
+---------------------------
+Algunas computadoras con Windows 11 tienen activado el "Control inteligente de aplicaciones"
+(Smart App Control). La primera vez que se abre un programa nuevo sin firma, puede bloquearlo
+(a veces no dice nada; a veces aparece "Control inteligente de aplicaciones bloqueó una
+aplicación"). En las pruebas, a los pocos minutos Windows lo revisa y lo deja abrir: esperá unos
+5 minutos y volvé a hacer doble clic. Si sigue sin abrir, avisale a quien te pasó el programa.
+
 USAR
 ----
 - La biblioteca se abre en el navegador. No hace falta internet.
